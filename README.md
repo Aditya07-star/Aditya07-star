@@ -56,7 +56,7 @@ Investigating U.S. airline performance across January & February 2019 using Bure
 - Developing actionable business recommendations for operational improvement
 - *In Progress* — findings being refined into a comprehensive report
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Aditya07-star)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Aditya07-star/-airline-operations-analytics)
 
 ---
 
