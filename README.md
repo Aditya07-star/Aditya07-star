@@ -42,7 +42,7 @@ Analyzed **500,000+ retail transactions** to uncover actionable business insight
 - Built visualizations to support business stakeholder decision-making
 - Key deliverable: customer segmentation insights and sales trend forecasting
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)](https://github.com/Aditya07-star)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github)]([https://github.com/Aditya07-star](https://github.com/Aditya07-star/Online-Retail-Intelligence-Dashboard))
 
 ---
 
